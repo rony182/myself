@@ -11332,6 +11332,7 @@ p {
   display: block;
   font-size: 1rem;
   font-weight: 800;
+  color: red;
 }
 .section-heading .section-heading-lower {
   display: block;
